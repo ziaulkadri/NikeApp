@@ -1,5 +1,5 @@
 import { FlatList, Image, View, StyleSheet } from 'react-native';
-import products from '../products';
+import products from '../data/products';
 
 const ProductScreen = () => {
 	return (
